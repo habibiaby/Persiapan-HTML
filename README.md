@@ -1,3 +1,1 @@
-Nama   : Abi Darda
-kelas  : WEBPRO
-NIM    : 103092400020
+Nama   : Abi Darda/103092400020
